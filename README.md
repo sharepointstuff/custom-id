@@ -29,19 +29,22 @@ Version|Date|Comments
 ### Upload list template
 
 - Save both the list template and Flow zip file locally
-- In your SharePoint site, click the cog button > Site information > View all site settings
-- Under Web Designer Galleries > List templates
-- On the ribbon, click Upload Document
+- In your SharePoint site, click the cog button > Site information > **View all site settings**
+- Under Web Designer Galleries > **List templates**
+- On the ribbon, click **Upload Document**
 - In the Add a Template page, press browse to navigate to the list template downloaded earlier
 - Press OK
 
+![Uploading a list template](./assets/modern_id_list_template.gif)
+
 ### Import Flow
 
-- Press the import button in the top right hand corner of the screen on the My Flows homepage
-- Next, upload the package file and wait for the screen to show up the package details
+- Press the **import button** in the top right hand corner of the screen on the My Flows homepage
+- Upload the package file and wait for the screen to show up the package details
 - When configuring the flow settings, you can choose to either create a new flow or update an existing one with the flow definition from the package
-- You will also need to select the connections that are required to setup the flow as part of the import process. You should see the
-- Import button light up once you have successfully configured all the required settings
+- You will also need to select the connections that are required to setup the flow as part of the import process. You should see the Import button light up once you have successfully configured all the required settings
+
+![Import Flow](./assets/modern_id_flow_import.gif)
 
 
 
