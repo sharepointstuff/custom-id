@@ -1,4 +1,4 @@
-# custom ID example solution
+# Custom ID example solution
 This example solution populates a custom ID field when a new item is added to a SharePoint Online list.
 
 ![Populating a new custom ID field when a new item is added to a SharePoint list](./assets/modern-id-walkthrough.gif)
